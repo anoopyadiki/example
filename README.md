@@ -8,3 +8,7 @@ This is a sample readme file for my Github Example repo. I'm learning Markdown.
 
 ## Link Example
 [CodeTime](https://www.codetime.io)
+
+1. Item One
+2. Item Two
+3. Item Three
